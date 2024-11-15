@@ -2,7 +2,7 @@
 Final-Year BSc (Hons) Computing Student | Java & Spring Boot Developer | Full-Stack Developer (React)
 
 ## About Me
-I'm a driven Bsc (Hons) Computing final-year student with a passion for developing robust, scalable and maintainable system. Throughout my academic journey, I've dedicated myself to mastering Java, Spring Boot, and React while also diving deep into backend development and project management. 
+I'm a ambitious Bsc (Hons) Computing final-year student with a passion for developing robust, scalable and maintainable system. Throughout my academic journey, I've dedicated myself to mastering Java, Spring Boot, and React while also diving deep into backend development and project management. 
 
 ## 💼 Key Projects
 ### 📚 Library Management System (FYP)
