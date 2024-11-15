@@ -12,7 +12,7 @@ I'm a ambitious Bsc (Hons) Computing final-year student with a passion for devel
 - Key Features: Membership management, book cataloging, and reporting tools.
 - Status: Under construction
 
-### 🖥️ E-learning Platform
+### 🖥️ eLearning Platform
 - Description: A platform that allows authors to upload courses, lectures, sections and various resources like videos, files and text documents.
 - Tech Stack: Java, Spring Boot, React, Git, MySQL.
 - Key Features: Author management, lecture organization, and content delivery.
