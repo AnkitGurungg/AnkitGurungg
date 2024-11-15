@@ -7,7 +7,7 @@ I'm a driven Bsc (Hons) Computing final-year student with a passion for developi
 ## 💼 Key Projects
 ### 📚 Library Management System (FYP)
 - Description: A comprehensive system designed for administrators to manage library operations such as membership, user and book management.
-- Technologies: Spring Boot, MySQL, React, HTML/CSS
+- Tech Stack: Spring Boot, MySQL, React, HTML/CSS
 - Development Approach: Incremental and iterative development with a focus on scalability.
 - Key Features: Membership management, book cataloging, and reporting tools.
 - Status: Under construction
@@ -15,14 +15,14 @@ I'm a driven Bsc (Hons) Computing final-year student with a passion for developi
 ### 🖥️ E-learning Platform
 - Description: A platform that allows authors to upload courses, lectures, sections and various resources like videos, files and text documents.
 - Tech Stack: Java, Spring Boot, React, Git, MySQL.
-- Status: Backend implementation completed; Frontend UI to be integrated.
 - Key Features: Author management, lecture organization, and content delivery.
+- Status: Backend implementation completed; Frontend UI to be integrated.
 
 ### 🧑‍🎓 Student Profile Management System
 - Description: An application designed to manage student profiles which includes including personal details, academic records.
 - Tech Stack: Java, Spring Boot, MySQL
-- Status: Developed RestAPI end points.
 - Key Features: CRUD operations for student profiles, real-time data updates, and user authentication.
+- Status: Developed RestAPI end points.
 
 ## 📈 GitHub Stats </br>
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitGurungg&show_icons=true&theme=radical)
