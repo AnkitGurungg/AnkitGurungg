@@ -2,14 +2,14 @@
 Final-Year BSc (Hons) Computing Student | Java & Spring Boot Developer | Full-Stack Developer (React)
 
 ## About Me
-I'm a ambitious Bsc (Hons) Computing final-year student with a passion for developing robust, scalable and maintainable system. Throughout my academic journey, I've dedicated myself to mastering Java, Spring Boot, and React while also diving deep into backend development and project management. 
+I'm a ambitious Bsc (Hons) Computing final-year student with a passion for developing robust, scalable and maintainable system. Throughout my academic journey, I've dedicated myself to mastering React, Java, Spring Boot and ambitious to leverage skills in cloud platforms like AWS, microservices architecture and explore AI-integrated solutions.
 
 ## 💼 Key Projects
 ### 📚 Library Management System (FYP)
-- Description: A comprehensive system designed for administrators to manage library operations such as membership, user and book management.
-- Tech Stack: Spring Boot, MySQL, React, HTML/CSS
-- Development Approach: Incremental and iterative development with a focus on scalability.
-- Key Features: Membership management, book cataloging, and reporting tools.
+- Description: A comprehensive system designed for administrators to manage library operations such as book, user and intergrated online payment.
+- Tech Stack: Spring Boot, MySQL, React, TailwindCSS & Shadcn
+- Development Approach: Incremental development with a focus on scalability.
+- Key Features: User management, book cataloging and reporting tools.
 - Status: Completed
 
 ### 🖥️ eLearning Platform
