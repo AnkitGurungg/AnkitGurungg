@@ -10,7 +10,7 @@ I'm a ambitious Bsc (Hons) Computing final-year student with a passion for devel
 - Tech Stack: Spring Boot, MySQL, React, HTML/CSS
 - Development Approach: Incremental and iterative development with a focus on scalability.
 - Key Features: Membership management, book cataloging, and reporting tools.
-- Status: Under construction
+- Status: Completed
 
 ### 🖥️ eLearning Platform
 - Description: A platform that allows authors to upload courses, lectures, sections and various resources like videos, files and text documents.
